@@ -1,0 +1,1 @@
+Cloud computing provides on-demand access to computing resources over the internet. Popular providers include AWS, GCP, and Azure. It enables scalability, cost savings, and rapid deployment of applications.

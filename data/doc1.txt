@@ -1,0 +1,1 @@
+Artificial intelligence is a field of computer science focused on creating systems that can perform tasks requiring human-like intelligence. Examples include natural language processing, computer vision, and reinforcement learning.

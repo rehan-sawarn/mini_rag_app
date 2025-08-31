@@ -1,0 +1,1 @@
+Vector databases like Qdrant are optimized for storing and searching high-dimensional embeddings. They are widely used in semantic search, recommendation systems, and AI assistants.
